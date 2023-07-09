@@ -6,7 +6,7 @@ import { FiGithub, FiExternalLink } from "react-icons/fi";
 function Projects() {
   const projectsData = [
     {
-      image: "/Screenshot (1).png",
+      image: "/Screenshot.jpg",
       projectName: "NewsGrid",
       projectLink: "https://gentle-alfajores-ca36db.netlify.app/index.html",
       projectDescription:
