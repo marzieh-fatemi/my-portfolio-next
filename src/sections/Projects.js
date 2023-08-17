@@ -17,6 +17,29 @@ function Projects() {
         externalLink: "https://gentle-alfajores-ca36db.netlify.app/index.html",
       },
     },
+
+    {
+      image: "/Screenshot (2).png",
+      projectName: "Food",
+      projectLink: "https://food-mu-ten.vercel.app/",
+      projectDescription: "this is a web application that uses the Next",
+      projectTech: ["Next", "CSS", "getServerSide", "getStaticProps"],
+      projectExternalLinks: {
+        github: "https://github.com/marzieh-fatemi/Food",
+        externalLink: "https://food-mu-ten.vercel.app/",
+      },
+    },
+    {
+      image: "/Screenshot (3).png",
+      projectName: "CRM",
+      projectLink: "https://crm-peach-ten.vercel.app/",
+      projectDescription: "this is a web application that uses the mongoDB",
+      projectTech: ["Next", "MongoDB"],
+      projectExternalLinks: {
+        github: "https://github.com/marzieh-fatemi/crm",
+        externalLink: "https://crm-peach-ten.vercel.app/",
+      },
+    },
   ];
   return (
     <div className="projects" id="work">

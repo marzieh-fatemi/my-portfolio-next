@@ -30,13 +30,13 @@ function About() {
             <li className="about-grid-info-list-item">git</li>
           </ul>
         </div>
-        <div className="about-grid-photo">
+        {/* <div className="about-grid-photo">
           <div className="overlay"></div>
           <div className="overlay-border"></div>
           <div className="about-grid-photo-container">
             <Image src="/446517566_434394.jpg" alt="profile" fill />
           </div>
-        </div>
+        </div> */}
       </div>
     </div>
   );
