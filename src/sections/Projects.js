@@ -21,23 +21,23 @@ function Projects() {
     {
       image: "/Screenshot (2).png",
       projectName: "Food",
-      projectLink: "https://food-mu-ten.vercel.app/",
+      projectLink: "https://amazing-kringle-8595bc.netlify.app/",
       projectDescription: "this is a web application that uses the Next",
       projectTech: ["Next", "CSS", "getServerSide", "getStaticProps"],
       projectExternalLinks: {
         github: "https://github.com/marzieh-fatemi/Food",
-        externalLink: "https://food-mu-ten.vercel.app/",
+        externalLink: "https://amazing-kringle-8595bc.netlify.app/",
       },
     },
     {
       image: "/Screenshot (3).png",
       projectName: "CRM",
-      projectLink: "https://crm-peach-ten.vercel.app/",
+      projectLink: "https://strong-swan-a1b273.netlify.app/",
       projectDescription: "this is a web application that uses the mongoDB",
       projectTech: ["Next", "MongoDB"],
       projectExternalLinks: {
         github: "https://github.com/marzieh-fatemi/crm",
-        externalLink: "https://crm-peach-ten.vercel.app/",
+        externalLink: "https://strong-swan-a1b273.netlify.app/",
       },
     },
   ];
